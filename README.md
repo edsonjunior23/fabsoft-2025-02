@@ -2,15 +2,15 @@
 
 **Nome da equipe:** DriveTech Solutions
 
-## 💡 Proposta de Projeto  
+##  Proposta de Projeto  
 **Nome do sistema:** Sistema de Aluguel de Veículos  
 
-### 🎯 Objetivo  
+###  Objetivo  
 Desenvolver um sistema simples e funcional para controle de aluguel de veículos, com foco em operações essenciais e cadastro básico.
 
 ---
 
-## ✅ Funcionalidades Principais (MVP)
+##  Funcionalidades Principais (MVP)
 
 ### 1. Cadastrar dados do cliente
 - Nome completo  
@@ -31,19 +31,19 @@ Desenvolver um sistema simples e funcional para controle de aluguel de veículos
 
 ---
 
-## 🛠️ Tecnologias sugeridas
+##  Tecnologias sugeridas
 - **Back-end:** Java / Spring Boot  
 - **Front-end:** HTML + CSS + JavaScript (ou React)  
 - **Banco de Dados:** MySQL ou PostgreSQL  
 
 ---
 
-## 👥 Usuários do sistema
+##  Usuários do sistema
 - **Operador/Admin**: Responsável por cadastrar clientes, veículos e registrar os aluguéis.
 
 ---
 
-## 📦 Escopo mínimo (versão 1.0)
+##  Escopo mínimo (versão 1.0)
 - Interface web funcional  
 - Cadastro básico de clientes e veículos  
 - Tela de aluguel com listagem de veículos disponíveis  
@@ -51,7 +51,7 @@ Desenvolver um sistema simples e funcional para controle de aluguel de veículos
 
 ---
 
-## 🚧 Funcionalidades futuras (fora do escopo inicial)
+##  Funcionalidades futuras (fora do escopo inicial)
 - Controle de devolução e multas  
 - Pagamento e geração de recibo  
 - Relatórios financeiros  
@@ -59,14 +59,14 @@ Desenvolver um sistema simples e funcional para controle de aluguel de veículos
 
 ---
 
-# 📘 Histórias de Usuário  
+#  Histórias de Usuário  
 **Projeto:** Sistema de Aluguel de Veículos  
-**Disciplina:** Fábrica de Software 2025/1  
+**Disciplina:** Fábrica de Software 2025/2  
 **Equipe:** DriveTech Solutions  
 
 ---
 
-## 👤 Usuário: Operador/Admin
+##  Usuário: Operador/Admin
 
 ### 🔹 Cadastro de clientes
 - Como um **operador**, eu gostaria de **cadastrar os dados do cliente**, para que o sistema possa vinculá-los aos contratos de aluguel.
@@ -85,14 +85,14 @@ Desenvolver um sistema simples e funcional para controle de aluguel de veículos
 
 ---
 
-## 👤 Usuário: Cliente (futuro escopo)
+##  Usuário: Cliente (futuro escopo)
 
 ### 🔹 Consultar veículos disponíveis
 - Como um **cliente**, eu gostaria de **ver os veículos disponíveis para aluguel**, para escolher qual desejo alugar. *(fora do escopo atual)*
 
 ---
 
-## 📌 Observações
+##  Observações
 - As histórias estão alinhadas com o escopo mínimo definido na primeira versão do sistema.
 - Futuras histórias poderão ser adicionadas conforme o sistema evoluir.
 
