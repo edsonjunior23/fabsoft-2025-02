@@ -5,21 +5,15 @@
 ---
 ##  Proposta de Projeto 
 
-**Nome do sistema:** Sistema de Aluguel de Veículos 
+## Nome do sistema: Sistema de Aluguel de Veículos 
+- Funcionalidade 1: Cadastrar dados do Cliente
+- Funcionalidade 2: Cadastrar veículos
+- Funcionalidade 3: Realizar reserva e locação dos veículos
 
-Funcionalidade 1: Cadastrar dados do Cliente
-
-Funcionalidade 2: Cadastrar veículos
-
-Funcionalidade 3: Realizar reserva e locação dos veículos
-
-Nome do sistema: Sistema para Oficina Mecânica
-
-Funcionalidade 1: Cadastrar dados do Cliente
-
-Funcionalidade 2: Cadastrar veículos
-
-Funcionalidade 3: Registrar ordens de serviço e acompanhamento das manutenções
+## Nome do sistema: Sistema para Oficina Mecânica
+- Funcionalidade 1: Cadastrar dados do Cliente
+- Funcionalidade 2: Cadastrar veículos
+- Funcionalidade 3: Registrar ordens de serviço e acompanhamento das manutenções
 ---
 
 ##  Proposta de Projeto  
