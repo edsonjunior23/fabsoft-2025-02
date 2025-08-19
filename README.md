@@ -2,6 +2,26 @@
 
 **Nome da equipe:** DriveTech Solutions
 
+---
+##  Proposta de Projeto 
+
+**Nome do sistema:** Sistema de Aluguel de Veículos 
+
+Funcionalidade 1: Cadastrar dados do Cliente
+
+Funcionalidade 2: Cadastrar veículos
+
+Funcionalidade 3: Realizar reserva e locação dos veículos
+
+Nome do sistema: Sistema para Oficina Mecânica
+
+Funcionalidade 1: Cadastrar dados do Cliente
+
+Funcionalidade 2: Cadastrar veículos
+
+Funcionalidade 3: Registrar ordens de serviço e acompanhamento das manutenções
+---
+
 ##  Proposta de Projeto  
 **Nome do sistema:** Sistema de Aluguel de Veículos  
 
@@ -31,7 +51,7 @@ Desenvolver um sistema simples e funcional para controle de aluguel de veículos
 
 ---
 
-##  Tecnologias sugeridas
+##  Tecnologias para desenvolvimento
 - **Back-end:** Java / Spring Boot  
 - **Front-end:** HTML + CSS + JavaScript (ou React)  
 - **Banco de Dados:** MySQL ou PostgreSQL  
