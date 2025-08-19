@@ -92,10 +92,4 @@ Desenvolver um sistema simples e funcional para controle de aluguel de veículos
 
 ---
 
-##  Observações
-- As histórias estão alinhadas com o escopo mínimo definido na primeira versão do sistema.
-- Futuras histórias poderão ser adicionadas conforme o sistema evoluir.
-
----
-
 > Projeto acadêmico desenvolvido na disciplina **Fábrica de Software** – Univille, 2025/2.
