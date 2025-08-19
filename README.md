@@ -1,9 +1,9 @@
 # fabsoft-2025-02
 
-**Nome da equipe:** DriveTech Solutions
+**Nome da equipe:** DriveTech 
 
 ---
-##  Proposta de Projeto 
+##  Propostas de Projetos
 
 ## Nome do sistema: Sistema de Aluguel de Veículos 
 - Funcionalidade 1: Cadastrar dados do Cliente
@@ -16,7 +16,7 @@
 - Funcionalidade 3: Registrar ordens de serviço e acompanhamento das manutenções
 ---
 
-##  Proposta de Projeto  
+##  Proposta de Projeto definida  
 **Nome do sistema:** Sistema de Aluguel de Veículos  
 
 ###  Objetivo  
