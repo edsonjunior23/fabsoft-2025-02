@@ -105,9 +105,11 @@ Desenvolver um sistema simples e funcional para controle de aluguel de veículos
 - Como um **cliente**, eu gostaria de **ver os veículos disponíveis para aluguel**, para escolher qual desejo alugar. *(fora do escopo atual)*
 
 ---
-## 📊 Diagrama de Entidades
 
-![Diagrama de Entidades]()
+##  Diagrama de Entidades
 
+![Diagrama de Entidades](diagrama_aluguel_veiculos.png)
+
+---
 
 > Projeto acadêmico desenvolvido na disciplina **Fábrica de Software** – Univille, 2025/2.
