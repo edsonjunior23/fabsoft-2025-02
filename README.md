@@ -105,5 +105,42 @@ Desenvolver um sistema simples e funcional para controle de aluguel de veículos
 - Como um **cliente**, eu gostaria de **ver os veículos disponíveis para aluguel**, para escolher qual desejo alugar. *(fora do escopo atual)*
 
 ---
+## 📊 Diagrama de Entidades (Mermaid)
+
+> **Atenção:** Para visualizar este diagrama corretamente no GitHub, utilize a extensão [Markdown Preview Mermaid Support](https://marketplace.visualstudio.com/items?itemName=vstirbu.vscode-mermaid-preview) ou o [Mermaid Live Editor](https://mermaid.live).
+
+```mermaid
+classDiagram
+    class Cliente {
+        -id: Long
+        -nome: String
+        -cpf: String
+        -cnh: String
+        -telefone: String
+        -email: String
+    }
+
+    class Veiculo {
+        -id: Long
+        -modelo: String
+        -placa: String
+        -ano: Int
+        -status: String
+    }
+
+    class Aluguel {
+        -id: Long
+        -dataInicio: Date
+        -dataFim: Date
+    }
+
+    class Cidade {
+        -id: Long
+        -nome: String
+    }
+
+    Cliente --> Cidade : reside_em
+    Aluguel --> Cliente : pertence_a
+    Aluguel --> Veiculo : aluga
 
 > Projeto acadêmico desenvolvido na disciplina **Fábrica de Software** – Univille, 2025/2.
